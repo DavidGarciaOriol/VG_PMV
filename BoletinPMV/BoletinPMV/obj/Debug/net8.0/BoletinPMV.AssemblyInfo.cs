@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletinPMV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f88ecc9463e16026bc4382c3df932087f5c425")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c5804d0b59e3ec6deed996b920a2e42fe8814e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletinPMV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletinPMV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
