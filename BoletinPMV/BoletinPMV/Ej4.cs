@@ -32,13 +32,14 @@ namespace BoletinPMV
 
         public void AgregarEstudiante(string nombre)
         {
-            try
+            bool agregado = nombres.Add(nombre);
+
+            if (agregado) 
             {
-                nombres.Add(nombre);
+                Console.WriteLine($"Estudiante \"{nombre}\" agregado correctamente");
             }
-            catch (Exception ex) 
+            else
             {
-                Console.WriteLine(ex.ToString());
                 Console.WriteLine($"Estudiante duplicado \"{nombre}\". No se ha realizado ninguna acción.");
             }
         }

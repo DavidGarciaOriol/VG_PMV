@@ -56,7 +56,27 @@
 
             Console.WriteLine("Lista de productos.\n" + ej3.ToString());
 
+            // EJERCICIO 4
+            Console.WriteLine("\n============= EJERCICIO 4 =============\n");
+            Ej4 ej4 = new Ej4(new HashSet<string>());
 
+            ej4.AgregarEstudiante("Ana");
+            ej4.AgregarEstudiante("Juan");
+            ej4.AgregarEstudiante("Pedro");
+            ej4.AgregarEstudiante("Lucía");
+
+            ej4.AgregarEstudiante("Lucía");
+            
+            Console.WriteLine(ej4);
+
+            ej4.ComprobarEstudiante("Lucía");
+
+            ej4.EliminarEstudiante("Pedro");
+
+            Console.WriteLine(ej4);
+
+            // EJERCICIO 5
+            Console.WriteLine("\n============= EJERCICIO 5 =============\n");
         }
     }
 }

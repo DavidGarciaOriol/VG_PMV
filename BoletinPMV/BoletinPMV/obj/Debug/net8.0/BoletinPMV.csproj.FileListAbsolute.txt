@@ -13,3 +13,18 @@ C:\Users\usuario\Desktop\Eliss2024\Proyectos\ClasesVG\PMV\CSProjects\BoletinPMV\
 C:\Users\usuario\Desktop\Eliss2024\Proyectos\ClasesVG\PMV\CSProjects\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.pdb
 C:\Users\usuario\Desktop\Eliss2024\Proyectos\ClasesVG\PMV\CSProjects\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Eliss2024\Proyectos\ClasesVG\PMV\CSProjects\BoletinPMV\BoletinPMV\obj\Debug\net8.0\ref\BoletinPMV.dll
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\bin\Debug\net8.0\BoletinPMV.exe
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\bin\Debug\net8.0\BoletinPMV.deps.json
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\bin\Debug\net8.0\BoletinPMV.runtimeconfig.json
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\bin\Debug\net8.0\BoletinPMV.dll
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\bin\Debug\net8.0\BoletinPMV.pdb
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.AssemblyInfo.cs
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.sourcelink.json
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.dll
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\refint\BoletinPMV.dll
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.pdb
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\BoletinPMV.genruntimeconfig.cache
+C:\Users\David\Desktop\Eliss Laptop\Proyectos\CursoVG\VG_PMV\BoletinPMV\BoletinPMV\obj\Debug\net8.0\ref\BoletinPMV.dll
